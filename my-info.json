@@ -1,0 +1,6 @@
+{
+    "colors": ["red", "blue", "green"],
+    "country": "portugal",
+    "if_visit": false,
+    "foods": ["pasta", "nutella", "sushi"]
+}
